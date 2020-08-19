@@ -9,3 +9,13 @@ External Dependencies:
 1. MUI controls 
 2. MUI Icons
 3. React hook form
+
+# Steps to run
+```
+$ npm install
+cd Imagepicker
+```
+
+```
+$ npm start
+```
