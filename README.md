@@ -12,8 +12,12 @@ External Dependencies:
 
 # Steps to run
 ```
-$ npm install
+$ git clone https://github.com/adityad89/Imagepicker.git
 cd Imagepicker
+```
+
+```
+$ npm install
 ```
 
 ```
