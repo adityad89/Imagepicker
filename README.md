@@ -6,9 +6,9 @@ The control can be further enhanced to upload the selected image image file to a
 
 External Dependencies:
 
-1. MUI controls 
-2. MUI Icons
-3. React hook form
+1. [MUI Controls](https://material-ui.com/)
+2. [MUI Icons](https://material-ui.com/components/material-icons/)
+3. [React hook form](https://react-hook-form.com/api/)
 
 # Steps to run
 ```
