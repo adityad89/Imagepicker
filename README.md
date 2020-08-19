@@ -23,3 +23,9 @@ $ npm install
 ```
 $ npm start
 ```
+
+# Note
+
+1. Select an image and click on upload
+2. Check the file object logged to the console
+3. The File will only be logged to the console only if an image is selected, as the control is marked as required using react-hook-form validation
