@@ -24,7 +24,7 @@ $ npm install
 $ npm start
 ```
 
-# Note
+# Notes
 
 1. Select an image and click on upload
 2. Check the file object logged to the console
