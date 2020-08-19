@@ -2,7 +2,7 @@
 
 Sample code to build image selection control. 
 
-The control can be further enhanced to upload the selected image image file to any file store of choice.
+The control can be further enhanced to upload the selected image file to any file store of choice.
 
 External Dependencies:
 
